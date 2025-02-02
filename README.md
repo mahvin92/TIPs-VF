@@ -10,6 +10,22 @@ Note that the implementation of TIPs for machine learning studies was tested onl
 1. The TIPs-VF encoding scheme is a backend-hosted tool that requires no installation. TIPs-VF submission is available at https://tips.logiacommunications.com/submission
 2. Google Colab comes pre-installed with many popular libraries. However, if required please install the following dependencies: NumPy, Pandas, Matplotlib, umap-learn, seaborn, and TensorFlow. Use the command: !pip install <library_name>
 
-## Implementation
+## Representation
 1. Visit
 2. https://tips.logiacommunications.com/ for 
+
+
+## Implementation 
+
+
+
+
+## FAQs
+
+
+# Running the TIPs-VF workflow
+
+
+The TIPs workflow is chuchuchuchu
+
+
