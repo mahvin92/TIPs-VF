@@ -1,0 +1,2 @@
+The 'viral genes TIPS_FR.tsv' file can be downloaded from https://drive.google.com/file/d/1LRcwgj-aesANGVIMLM4MizeH_pwxZGoi/view?usp=sharing
+Visit the TIPs-VF Google Colab resource at https://colab.research.google.com/drive/1dXYjzRBdmhm5RKBjm5xO2ry6vmhutQ3h
