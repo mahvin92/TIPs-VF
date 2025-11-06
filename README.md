@@ -39,4 +39,5 @@ Note that the implementation of TIPs for machine learning studies was tested onl
 Please send your inquiries at tipsencoding@gmail.com or visit https://tips.logiacommunications.com/tips-contact
 
 
-
+# License notice
+This repository contains supporting materials, sample datasets, and example notebooks for TIPs-VF research and experimentation. The core TIPs-VF software, including its underlying codebase and algorithms, is proprietary and not included in this repository. These materials are for educational and illustrative purposes only.
